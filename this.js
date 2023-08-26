@@ -17,3 +17,6 @@ kodom.sleep();
 const badam = new Person('Kacha badam', 23)
 badam.sleep();
 
+
+
+
